@@ -1,0 +1,8 @@
+0 All The Best
+1 Happy
+2 Hello
+3 No
+4 Please
+5 Sorry
+6 Thank You
+7 Yes
